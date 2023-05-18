@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<title>Let's shop online</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+          
+   
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
+		
+    </head>
+    <body>
+    
+        <div>
+        <h1 >Let's shop online</h1>
+            
+        </div>
+    
+        <div class="container">		
+			<section class="main">
+				<ul class="ch-grid">
+					<li>
+						<div class="ch-item ch-img-1">				
+							<div class="ch-info-wrap">
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-1"></div>
+									<div class="ch-info-back">
+										<h3>Paige</h3>
+							            <a href="inbox1.html">Shop Now</a>
+									</div>	
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="ch-item ch-img-2">
+							<div class="ch-info-wrap">
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-2"></div>
+									<div class="ch-info-back">
+										<h3>Hollister</h3>
+										<a href="inbox2.html">Shop Now</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="ch-item ch-img-3">
+							<div class="ch-info-wrap">
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-3"></div>
+									<div class="ch-info-back">
+										<h3>ZARA</h3>
+										<a href="inbox-3.html">Shop Now</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="ch-item ch-img-4">
+							<div class="ch-info-wrap">
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-4"></div>
+									<div class="ch-info-back">
+										<h3>TheNorthFac</h3>
+										<a href="inbox-4.html">Shop Now</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="ch-item ch-img-5">
+							<div class="ch-info-wrap">
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-5"></div>
+									<div class="ch-info-back">
+										<h3>A&F</h3>
+										<a href="inbox-5.html">Shop Now</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+				
+			</section>
+        </div>
+        <div  id="video">
+        <a href="https://www.youtube.com/watch?v=RImhKsh7BQE&feature=youtu.be">YouTube Demo Video</a></div>
+    </body>
+</html>
